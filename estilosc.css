@@ -1,0 +1,18 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: transparent;
+}
+
+.formulario {
+    background-color: rgb(242, 239, 239);
+    padding: 20px;
+    border-radius: 10px;
+    border-color: rgb(112, 177, 226);
+    box-shadow: rgba(48, 47, 47, 0.289);
+    color: white;
+}
